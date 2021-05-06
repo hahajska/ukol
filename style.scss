@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h2 {
+  color: rgb(17, 17, 105);
+}
+h5,
+h6 {
+  color: rgb(56, 56, 158);
+  padding-bottom: 1.2rem;
+}
+ul {
+  li {
+    line-height: 2rem;
+  }
+}
+span {
+  color: rgb(35, 35, 124);
+  font-weight: bold;
+}
+.text,
+.textImage {
+  min-height: 35vh;
+  margin-top: 3rem;
+}
+
+img {
+  height: 20rem;
+}
+
+.how {
+  padding: 2rem 7rem;
+}
